@@ -1,0 +1,543 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:05 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=F:\visua2015\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.10
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/3.12.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:08 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=F:\visua2015\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\3.12.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.93
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/3.12.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_ce723.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:09 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_ce723.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_ce723.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_ce723.dir\Debug\cmTC_ce723.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_ce723.dir\Debug\cmTC_ce723.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce723.dir\Debug\\" /Fd"cmTC_ce723.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce723.dir\Debug\\" /Fd"cmTC_ce723.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_ce723.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_ce723.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_ce723.lib" /MACHINE:X64  /machine:x64 cmTC_ce723.dir\Debug\testCCompiler.obj
+  cmTC_ce723.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_ce723.exe
+  cmTC_ce723.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_ce723.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_ce723.dir\Debug\cmTC_ce723.tlog\unsuccessfulbuild".
+  Touching "cmTC_ce723.dir\Debug\cmTC_ce723.tlog\cmTC_ce723.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_ce723.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.35
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_2425f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:11 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_2425f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_2425f.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_2425f.dir\Debug\cmTC_2425f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_2425f.dir\Debug\cmTC_2425f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2425f.dir\Debug\\" /Fd"cmTC_2425f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2425f.dir\Debug\\" /Fd"cmTC_2425f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_2425f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_2425f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_2425f.lib" /MACHINE:X64  /machine:x64 cmTC_2425f.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_2425f.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_2425f.exe
+  cmTC_2425f.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_2425f.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_2425f.dir\Debug\cmTC_2425f.tlog\unsuccessfulbuild".
+  Touching "cmTC_2425f.dir\Debug\cmTC_2425f.tlog\cmTC_2425f.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_2425f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.70
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c71f6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:12 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_c71f6.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c71f6.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c71f6.dir\Debug\cmTC_c71f6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c71f6.dir\Debug\cmTC_c71f6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c71f6.dir\Debug\\" /Fd"cmTC_c71f6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\feature_tests.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c71f6.dir\Debug\\" /Fd"cmTC_c71f6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\feature_tests.c"
+  
+  feature_tests.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_c71f6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_c71f6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_c71f6.lib" /MACHINE:X64  /machine:x64 cmTC_c71f6.dir\Debug\feature_tests.obj
+  cmTC_c71f6.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_c71f6.exe
+  cmTC_c71f6.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_c71f6.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_c71f6.dir\Debug\cmTC_c71f6.tlog\unsuccessfulbuild".
+  Touching "cmTC_c71f6.dir\Debug\cmTC_c71f6.tlog\cmTC_c71f6.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_c71f6.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_b5feb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:12 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_b5feb.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b5feb.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b5feb.dir\Debug\cmTC_b5feb.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b5feb.dir\Debug\cmTC_b5feb.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b5feb.dir\Debug\\" /Fd"cmTC_b5feb.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b5feb.dir\Debug\\" /Fd"cmTC_b5feb.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_b5feb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b5feb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b5feb.lib" /MACHINE:X64  /machine:x64 cmTC_b5feb.dir\Debug\testCXXCompiler.obj
+  cmTC_b5feb.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_b5feb.exe
+  cmTC_b5feb.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b5feb.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_b5feb.dir\Debug\cmTC_b5feb.tlog\unsuccessfulbuild".
+  Touching "cmTC_b5feb.dir\Debug\cmTC_b5feb.tlog\cmTC_b5feb.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_b5feb.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.68
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e396a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:13 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_e396a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e396a.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e396a.dir\Debug\cmTC_e396a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e396a.dir\Debug\cmTC_e396a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e396a.dir\Debug\\" /Fd"cmTC_e396a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e396a.dir\Debug\\" /Fd"cmTC_e396a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_e396a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_e396a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_e396a.lib" /MACHINE:X64  /machine:x64 cmTC_e396a.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_e396a.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_e396a.exe
+  cmTC_e396a.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_e396a.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_e396a.dir\Debug\cmTC_e396a.tlog\unsuccessfulbuild".
+  Touching "cmTC_e396a.dir\Debug\cmTC_e396a.tlog\cmTC_e396a.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_e396a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.90
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_4599a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:14 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_4599a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_4599a.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_4599a.dir\Debug\cmTC_4599a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_4599a.dir\Debug\cmTC_4599a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4599a.dir\Debug\\" /Fd"cmTC_4599a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4599a.dir\Debug\\" /Fd"cmTC_4599a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_4599a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_4599a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_4599a.lib" /MACHINE:X64  /machine:x64 cmTC_4599a.dir\Debug\feature_tests.obj
+  cmTC_4599a.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_4599a.exe
+  cmTC_4599a.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_4599a.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_4599a.dir\Debug\cmTC_4599a.tlog\unsuccessfulbuild".
+  Touching "cmTC_4599a.dir\Debug\cmTC_4599a.tlog\cmTC_4599a.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_4599a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.68
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_18130.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:15 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_18130.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_18130.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_18130.dir\Debug\cmTC_18130.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_18130.dir\Debug\cmTC_18130.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18130.dir\Debug\\" /Fd"cmTC_18130.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18130.dir\Debug\\" /Fd"cmTC_18130.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_18130.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_18130.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_18130.lib" /MACHINE:X64  /machine:x64 cmTC_18130.dir\Debug\CheckIncludeFile.obj
+  cmTC_18130.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_18130.exe
+  cmTC_18130.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_18130.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_18130.dir\Debug\cmTC_18130.tlog\unsuccessfulbuild".
+  Touching "cmTC_18130.dir\Debug\cmTC_18130.tlog\cmTC_18130.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_18130.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.85
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_b163a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:16 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_b163a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b163a.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b163a.dir\Debug\cmTC_b163a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b163a.dir\Debug\cmTC_b163a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b163a.dir\Debug\\" /Fd"cmTC_b163a.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b163a.dir\Debug\\" /Fd"cmTC_b163a.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_b163a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b163a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b163a.lib" /MACHINE:X64  /machine:x64 cmTC_b163a.dir\Debug\CheckIncludeFile.obj
+  cmTC_b163a.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_b163a.exe
+  cmTC_b163a.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_b163a.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_b163a.dir\Debug\cmTC_b163a.tlog\unsuccessfulbuild".
+  Touching "cmTC_b163a.dir\Debug\cmTC_b163a.tlog\cmTC_b163a.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_b163a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.88
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_bb49d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:18 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_bb49d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_bb49d.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_bb49d.dir\Debug\cmTC_bb49d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_bb49d.dir\Debug\cmTC_bb49d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb49d.dir\Debug\\" /Fd"cmTC_bb49d.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb49d.dir\Debug\\" /Fd"cmTC_bb49d.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_bb49d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_bb49d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_bb49d.lib" /MACHINE:X64  /machine:x64 cmTC_bb49d.dir\Debug\CheckIncludeFile.obj
+  cmTC_bb49d.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_bb49d.exe
+  cmTC_bb49d.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_bb49d.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_bb49d.dir\Debug\cmTC_bb49d.tlog\unsuccessfulbuild".
+  Touching "cmTC_bb49d.dir\Debug\cmTC_bb49d.tlog\cmTC_bb49d.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_bb49d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.80
+
+
+Determining size of void* passed with the following output:
+Change Dir: G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_f4f12.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/10/2018 10:58:19 AM.
+Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_f4f12.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f4f12.dir\Debug\".
+  Creating directory "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f4f12.dir\Debug\cmTC_f4f12.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f4f12.dir\Debug\cmTC_f4f12.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  F:\visua2015\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f4f12.dir\Debug\\" /Fd"cmTC_f4f12.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f4f12.dir\Debug\\" /Fd"cmTC_f4f12.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  
+  SIZE_OF_VOID_PTR.c
+Link:
+  F:\visua2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_f4f12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_f4f12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_f4f12.lib" /MACHINE:X64  /machine:x64 cmTC_f4f12.dir\Debug\SIZE_OF_VOID_PTR.obj
+  cmTC_f4f12.vcxproj -> G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\Debug\cmTC_f4f12.exe
+  cmTC_f4f12.vcxproj -> G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/CMakeTmp/Debug/cmTC_f4f12.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_f4f12.dir\Debug\cmTC_f4f12.tlog\unsuccessfulbuild".
+  Touching "cmTC_f4f12.dir\Debug\cmTC_f4f12.tlog\cmTC_f4f12.lastbuildstate".
+Done Building Project "G:\Study\Image_Processing\LIb\dlib-19.15\build\CMakeFiles\CMakeTmp\cmTC_f4f12.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.74
+
+

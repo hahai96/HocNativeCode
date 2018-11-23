@@ -1,0 +1,8 @@
+G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/PACKAGE.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/INSTALL.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/ALL_BUILD.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/CMakeFiles/ZERO_CHECK.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/dlib/CMakeFiles/dlib.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/dlib/CMakeFiles/PACKAGE.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/dlib/CMakeFiles/INSTALL.dir
+G:/Study/Image_Processing/LIb/dlib-19.15/build/dlib/CMakeFiles/ALL_BUILD.dir

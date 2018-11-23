@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.12/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPNG.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Templates/CPackConfig.cmake.in
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/CMakeLists.txt
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/check_if_neon_available.cmake
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/dlib.pc.in
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/dlibConfig.cmake.in
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/release_build_by_default
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/set_compiler_specific_options.cmake
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/cmake_utils/use_cpp_11.cmake
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/config.h.in
+G:/Study/Image_Processing/LIb/dlib-19.15/source/dlib/revision.h.in
